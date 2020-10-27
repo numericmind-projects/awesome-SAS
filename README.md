@@ -3,6 +3,12 @@
 A list of curated tutorials for SAS programming
 
 
+### Motivation
+
+For those who're interested to learn SAS and also expand their SAS skills.
+This is a curated list of tutorials, blogs, video links to SAS Programming.
+
+
 ### Tutorials:
 
 - [Tutorial Points](https://www.tutorialspoint.com/sas/index.htm)
