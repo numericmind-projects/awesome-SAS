@@ -17,6 +17,8 @@ This is a curated list of tutorials, blogs, video links to SAS Programming.
 
 ### Books:
 
+- [SAS Programming for R users](https://support.sas.com/content/dam/SAS/support/en/books/free-books/sas-programming-for-r-users.pdf)
+
 
 
 ### Videos:
