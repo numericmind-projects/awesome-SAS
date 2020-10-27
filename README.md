@@ -21,3 +21,4 @@ This is a curated list of tutorials, blogs, video links to SAS Programming.
 
 ### Videos:
 
+[How to SAS Tutorial Video](https://video.sas.com/category/videos/how-to-tutorials)
